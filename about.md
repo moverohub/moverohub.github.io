@@ -4,15 +4,26 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+MoVeRo initiative is a spin-of of the EU project CONVINCE. The goal of MoVeRo
+  is to reach verifiable safety, security and quality of 
+  service in adaptive autonomous robots. The principles 
+  of MoVeRo are
+  - **Easy of use**: developers should be able to design robot control
+  architectures using graphical models and specify requirements using
+  (controlled) natural language;
+  - **Static verification**: the models, including those of
+  data-driven components, can be verified against requirements assuming some
+  target middleware (e.g. ROS 2); developers should be given
+  concise and easy-to-interpret information to debug their designs,
+  should a requirement fail to be satisfied.
+  - **Certified compilation**: some of the models can be compiled to code that can be executed on
+  the target middleeware;
+  - **Dynamic verification**: once the control architecture is deployed, in simulation or the
+  real world, monitors generated from the models and the requirements
+  should run alongside the control software to ensure that design-time
+  verification conditions are still met.
+ 
+  
+Learn more about the CONVINCE project at [CONVINCE web site](https://convince-project.eu/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This site is brougth to you by [moverohub](https://github.com/moverohub)
