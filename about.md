@@ -26,4 +26,4 @@ permalink: /about/
   
 Learn more about the CONVINCE project at the [CONVINCE web site](https://convince-project.eu/).
 
-This site is brougth to you by [moverohub](https://github.com/moverohub).
+This site is brought to you by [moverohub](https://github.com/moverohub).
