@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcome to MoVeRo!"
+date:   2026-05-05 16:30:00 +0100
+categories: jekyll update
+---
+
+The MoVeRo Initiative is launched. Stay tuned for future updates!
+
