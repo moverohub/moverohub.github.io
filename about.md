@@ -16,7 +16,7 @@ permalink: /about/
   target middleware (e.g. ROS 2); developers should be given
   concise and easy-to-interpret information to debug their designs,
   should a requirement fail to be satisfied.
-  - **Certified compilation**: some of the models can be compiled to code that can be executed on
+  - **Certified compilation**: concrete models, i.e., those that represent actual components of the architecture and not just abstractions of functional elements, robot hardware or operating environment, can be compiled to code that can be executed on
   the target middleware; the semantics of the models is provably preserved in
   the translation;
   - **Dynamic verification**: once the control architecture is deployed, in simulation or the
