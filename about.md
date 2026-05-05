@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-MoVeRo initiative is a spin-of of the EU project CONVINCE. The goal of MoVeRo
+**MoVeRo** (**Mo**deling and **Ve**rification in **Ro**botics) initiative is a spin-off of the EU project CONVINCE. The goal of MoVeRo
   is to reach verifiable safety, security and quality of 
   service in adaptive autonomous robots. The principles 
   of MoVeRo are
