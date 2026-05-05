@@ -17,13 +17,13 @@ permalink: /about/
   concise and easy-to-interpret information to debug their designs,
   should a requirement fail to be satisfied.
   - **Certified compilation**: some of the models can be compiled to code that can be executed on
-  the target middleeware;
+  the target middleeware; the semantics of the models is preserved in
+  the process;
   - **Dynamic verification**: once the control architecture is deployed, in simulation or the
   real world, monitors generated from the models and the requirements
   should run alongside the control software to ensure that design-time
   verification conditions are still met.
- 
-  
+   
 Learn more about the CONVINCE project at the [CONVINCE web site](https://convince-project.eu/).
 
 This site is brought to you by [moverohub](https://github.com/moverohub).
