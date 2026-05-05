@@ -8,7 +8,7 @@ permalink: /about/
   is to reach verifiable safety, security and quality of 
   service in adaptive autonomous robots. The principles 
   of MoVeRo are
-  - **Easy of use**: developers should be able to design robot control
+  - **Ease of use**: developers should be able to design robot control
   architectures using graphical models and specify requirements using
   (controlled) natural language;
   - **Static verification**: the models, including those of
