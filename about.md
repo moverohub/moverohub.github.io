@@ -24,6 +24,6 @@ permalink: /about/
   verification conditions are still met.
  
   
-Learn more about the CONVINCE project at [CONVINCE web site](https://convince-project.eu/)
+Learn more about the CONVINCE project at the [CONVINCE web site](https://convince-project.eu/).
 
-This site is brougth to you by [moverohub](https://github.com/moverohub)
+This site is brougth to you by [moverohub](https://github.com/moverohub).
