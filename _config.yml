@@ -21,8 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   development for robotic control software through formally-grounded
   techniques. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "htpp://www.moverohub.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: moverohub
+url: "http://www.moverohub.org" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  moverohub
 
 # Build settings
